@@ -1,0 +1,33 @@
+{
+  "type": "FeatureCollection",
+  "features": [
+    {
+      "type": "Feature",
+      "properties": {
+        "name": "Sotcom Datacenter",
+        "url": "",
+        "line": "Core",
+        "objectid": "1",
+        "notes": "Datacenter"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [54.60774, 39.77231]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "name": "Office Sotcom",
+        "url": "",
+        "line": "Administrative",
+        "objectid": "2",
+        "notes": "Headquarter"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [54.62011, 39.75348]
+      }
+    }
+  ]
+}
